@@ -5,6 +5,7 @@ The steps included
 - Data Wrangling
 - Data Visualisation
 - Buidling a Dashboard
+- Plotting a map using Folium
 - Machine Learning
 
 Successfully completed the Project and obtained some meaningful insights on the data.
