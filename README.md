@@ -1,11 +1,4 @@
 # SpaceX-Project.
-Small Project i did analyzing data from flight data from https://github.com/r-spacex/SpaceX-API. From IBM Skills Network. Great Fun!
-The steps included
-- Data Collection with (Pandas, Webscraping)
-- Data Wrangling
-- Data Visualisation
-- Buidling a Dashboard
-- Plotting a map using Folium
-- Machine Learning
+These are the python Files There are hashed explanations on them.
 
-Successfully completed the Project and obtained some meaningful insights on the data.
+In depth Analysis on the PDF presentation file.
