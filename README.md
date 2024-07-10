@@ -1,10 +1,9 @@
 # SpaceX-Project.
-Small Project i did analyzing data from flight data from https://github.com/r-spacex/SpaceX-API. From IBM Skills Network. Great Fun!
-The steps included
-- Data Collection with (Pandas, Webscraping)
-- Data Wrangling
-- Data Visualisation
-- Buidling a Dashboard
-- Machine Learning
+These are the CSV Files used for the Project.
 
-Successfully completed the Project and obtained some meaningful insights on the data.
+dataset_cleaned.csv
+dataset_cleaned.csv
+dataset_cleaned.csv
+spacex_launch_dash.csv
+spacex_launch_geo.csv
+The last File is Latitude and Longitude Coordinates used for the python Library Folium.
